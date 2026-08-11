@@ -1,0 +1,10 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "github>konflux-ci/mintmaker-presets:refresh-rpm-lockfiles",
+    "helpers:pinGitHubActionDigestsToSemver"
+  ],
+  "prHourlyLimit": 5,
+  "updateNotScheduled": true,
+  "dependencyDashboard": true
+}

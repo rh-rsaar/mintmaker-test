@@ -1,0 +1,3 @@
+boto3==1.43.29; python_version >= "3.12" and python_version < "3.13" \
+    --hash=sha256:354006c512cdb87ef8214a095f2ade961c8145734475cd7a7e6b39260ff5494a \
+    --hash=sha256:77c27ada27cdbf619a3bbc41fa9e991caef818d3a2988cf92ea722e107d90108
