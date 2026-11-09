@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi9/ubi:9.8-1793861509
+FROM registry.access.redhat.com/ubi9/ubi:9.8-1794186345
 
 RUN dnf -y install cargo
 
